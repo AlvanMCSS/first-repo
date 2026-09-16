@@ -3,4 +3,8 @@ cd into first-repo directory
 git init
 open vs code with 'code.'
 create a notes.txt and take note of the letter u - represent untrackted
-git status - check the stateof our local repo
+git status - check the state of our local repo
+git add to state changes in the repository
+git commit to record the changes in the repository
+git origin -from local to remote repository
+
